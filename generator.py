@@ -1,4 +1,4 @@
-from Letter import Letter
+from letter import Letter
 
 class Generator:
     def __init__(self):
